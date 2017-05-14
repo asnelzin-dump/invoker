@@ -1,0 +1,103 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+audio {
+    display: none;
+}
+
+.wrapper {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.spheres {
+    width: 760px;
+    height: 128px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin: -64px 0 0 -380px;
+}
+
+.sphere {
+    width: 128px;
+    height: 128px;
+    margin: 0 10px;
+    padding: 0;
+    display: inline-block;
+    background: #666666;
+}
+
+.quas {
+    background-image: url('./img/Quas_icon.png');
+}
+
+.wex {
+    background-image: url('./img/Wex_icon.png')
+}
+
+.exort {
+    background-image: url('./img/Exort_icon.png')
+}
+
+.invoke {
+    background-image: url('./img/Invoke_icon.png')
+}
+
+.spell {
+    width: 128px;
+    height: 128px;
+    margin: 0 10px;
+    padding: 0;
+    display: inline-block;
+    background: #666666;  
+}
+
+
+.emp {
+    background-image: url('./img/EMP_icon.png')
+}
+
+.tornado {
+    background-image: url('./img/Tornado_icon.png')
+}
+
+.alacrity {
+    background-image: url('./img/Alacrity_icon.png')
+}
+
+.ghost-walk {
+    background-image: url('./img/Ghost_Walk_icon.png')
+}
+
+.deafening-blast {
+    background-image: url('./img/Deafening_Blast_icon.png')
+}
+
+.chaos-meteor {
+    background-image: url('./img/Chaos_Meteor_icon.png')
+}
+
+.cold-snap {
+    background-image: url('./img/Cold_Snap_icon.png')
+}
+
+.ice-wall {
+    background-image: url('./img/Ice_Wall_icon.png')
+}
+
+.forge-spirit {
+    background-image: url('./img/Forge_Spirit_icon.png')
+}
+
+.sun-strike {
+    background-image: url('./img/Sun_Strike_icon.png')
+}
+
